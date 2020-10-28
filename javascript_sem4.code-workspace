@@ -6,5 +6,8 @@
 		{
 			"path": "..\\new_twitter_api"
 		}
-	]
+	],
+	"settings": {
+		"debug.node.autoAttach": "on"
+	}
 }
