@@ -40,6 +40,7 @@ export default class UserFacade {
     const result = await userCollection.deleteOne({name: userName});
     return "User was deleted";
   }
+  
   //static async getAllUsers(): Promise<Array<IGameUser>> {
   static async getAllUsers(proj?: object): Promise<Array<any>> {
     const users = await userCollection.find({}, { projection: proj }).toArray()
