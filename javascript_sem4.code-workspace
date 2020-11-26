@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "..\\new_twitter_api"
+		},
+		{
+			"path": "..\\meew"
 		}
 	],
 	"settings": {
