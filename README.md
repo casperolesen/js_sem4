@@ -19,4 +19,7 @@ Exercises for Fullstack Javascript 4th sem
 * [Day 6 (13-11-2020)](https://github.com/casperolesen/express-game-api)
 
 ## Period 3
+* [Learning Goals for Period 3](https://docs.google.com/document/d/1N2bOGQsx0PJn1mOYXtEKouGwXq6WJxWhmaDcOof9ufM/edit?usp=sharing)
 * [Day 1 (20-11-2020)](exercises/period_3/day_1)
+* [Day 2 (27-11-2020)](exercises/period_3/day_2)
+* [Day 3 (4-12-2020)](exercises/period_3/day_3)
